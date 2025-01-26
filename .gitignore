@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# React
+client/build/
+client/node_modules/
+client/.env
+
+# Logs
+logs/
+*.log
+
+# Editor and OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+.env.*
+.DS_Store
+Thumbs.db
+*.tmp
+coverage/
+*.lcov
+dist/
+build/
+*.bak
+*.swp
+.eslintcache
+
